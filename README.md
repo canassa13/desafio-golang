@@ -1,5 +1,7 @@
 # Desafio golang
 
+Docker Hub: https://hub.docker.com/repository/docker/canassa13/codeeducation
+
 ## Descrição
 
 Este é um desafio do modulo de Docker do curso <b>Full Cycle</b>, neste desafio temos que criar uma imagem docker que utilize golang para imprimir na tela <i>"Code.education Rocks!"</i> com o requisito que a imagem tenha menos de <b>2MB</b>
